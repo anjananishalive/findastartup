@@ -1,0 +1,29 @@
+.white {
+    background-image: url(https://th.bing.com/th/id/R.d237b30e318b8bbec92f08ac05d01990?rik=92rF%2bWPmOaFWFA&riu=http%3a%2f%2fimages4.fanpop.com%2fimage%2fphotos%2f17700000%2fItachi-Uchiha-itachi-uchiha-17766213-1280-720.jpg&ehk=s7r6S85tlkfajgOmX8da4wPKDSXhRWKWetq9lU3343A%3d&risl=&pid=ImgRaw&r=0);
+    height: 300px;
+    background-repeat: no-repeat;
+    object-fit: cover;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: blueviolet;
+    font-size: xx-large;
+    font-weight: 600;
+}
+.anjana
+{display: flex;justify-content: center;   align-items: center;padding: url(https://th.bing.com/th/id/OIP.BhtRTPxCV62ZU_51K2C0UwHaEK?rs=1&pid=ImgDetMain);height: 500px;background-repeat: no-repeat;background-size: cover;height: 600px;color: aquamarine;
+
+}
+
+
+form
+{
+    background-color: azure;    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;height: 400px;padding: 30px;
+
+}
+
+.
